@@ -6,7 +6,7 @@
         <button @click="pay" id="pay-button">Pay!</button>
     </div>
     <!-- <div id="snap-container"></div> -->
-    <h1>Homepage</h1>
+    <h1>Homepages</h1>
 </template>
 
 <script >

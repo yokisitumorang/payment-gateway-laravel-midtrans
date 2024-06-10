@@ -31,7 +31,7 @@ This Laravel project is a full-stack application built with Vue 3 and Vite for t
 * Node.js 18 or above (check: `node -v`)
 * npm package manager (usually comes with Node.js)
 
-### Clone the Repository
+### Clone the Repository.
 
 <!-- ```bash
 git clone https://your-git-repository-url.git
